@@ -1,0 +1,24 @@
+.title {
+	font-size: 3.3vh;
+}
+
+.farm a,  .farm form > button{
+	margin-left: 1%;
+}
+
+.product img{
+	width: 100px;
+}
+
+.img-slider{
+	min-height: 100px;
+}
+
+.my-form {
+	float: left;
+}
+
+.my-product {
+	width: 100px;
+	max-height: 100px;
+}
